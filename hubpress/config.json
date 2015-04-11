@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "chencao",
-    "repositoryName": "chencao.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"chencao","repositoryName":"chencao.github.io","branch":"master"},"site":{"title":"Chen Cao","url":"https://chencao.github.io"},"socialnetwork":{"twitter":"chencao","instagram":"czc619"},"theme":{"name":"Roon","url":"//chencao.github.io/themes/Roon"}}
